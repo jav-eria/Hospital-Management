@@ -95,3 +95,8 @@ GitHub: https://github.com/jav-eria
 ## License
 
 This project is developed for educational and internship purposes.
+## Screenshots
+
+### Dashboard
+
+![Hospital Management Dashboard](dashboard.png.png)
