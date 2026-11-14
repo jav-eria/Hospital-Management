@@ -100,3 +100,6 @@ This project is developed for educational and internship purposes.
 ### Dashboard
 
 ![Hospital Management Dashboard](dashboard.png.png)
+### Login Page
+
+![Hospital Management Login Page](login.png)
